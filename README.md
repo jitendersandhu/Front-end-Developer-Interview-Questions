@@ -27,7 +27,7 @@ This file contains a number of front-end interview questions that can be used wh
 
 This project started in 2009 as a collaboration of [@paul_irish](https://twitter.com/paul_irish) [@bentruyman](https://twitter.com/bentruyman) [@cowboy](https://twitter.com/cowboy) [@ajpiano](https://twitter.com/ajpiano)  [@SlexAxton](https://twitter.com/slexaxton) [@boazsender](https://twitter.com/boazsender) [@miketaylr](https://twitter.com/miketaylr) [@vladikoff](https://twitter.com/vladikoff) [@gf3](https://twitter.com/gf3) [@jon_neal](https://twitter.com/jon_neal) [@sambreed](https://twitter.com/sambreed) and [@iansym](https://twitter.com/iansym).
 
-This project is currently maintained by:
+This project is a fork of https://github.com/h5bp/Front-end-Developer-Interview-Questions, which is maintained by:
 
 - [@roblarsen](https://github.com/roblarsen)
 - [@cezaraugusto](https://github.com/cezaraugusto)
